@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Иван Петров",
+    "skills": {"архитектура": 9, "sql": 8, "backend": 7},
+    "daily_hours": 8,
+    "cost_per_hour": 1500
+  },
+  {
+    "id": 2,
+    "name": "Мария Сидорова",
+    "skills": {"frontend": 9, "ui/ux": 8},
+    "daily_hours": 8,
+    "cost_per_hour": 1400
+  },
+  {
+    "id": 3,
+    "name": "Алексей Иванов",
+    "skills": {"backend": 9, "api": 9, "devops": 7},
+    "daily_hours": 8,
+    "cost_per_hour": 1600
+  },
+  {
+    "id": 4,
+    "name": "Елена Кузнецова",
+    "skills": {"testing": 8, "frontend": 6},
+    "daily_hours": 6,
+    "cost_per_hour": 1200
+  },
+  {
+    "id": 5,
+    "name": "Дмитрий Смирнов",
+    "skills": {"devops": 9, "архитектура": 6},
+    "daily_hours": 8,
+    "cost_per_hour": 1550
+  }
+]

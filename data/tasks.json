@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Разработка архитектуры БД",
+    "skills": ["архитектура", "sql"],
+    "hours": 40,
+    "priority": "high",
+    "deadline": "2025-06-15"
+  },
+  {
+    "id": 2,
+    "name": "Верстка главной страницы",
+    "skills": ["frontend", "ui/ux"],
+    "hours": 24,
+    "priority": "medium",
+    "deadline": "2025-05-20"
+  },
+  {
+    "id": 3,
+    "name": "Написание API",
+    "skills": ["backend", "api"],
+    "hours": 60,
+    "priority": "high",
+    "deadline": "2025-06-30"
+  },
+  {
+    "id": 4,
+    "name": "Настройка сервера",
+    "skills": ["devops"],
+    "hours": 16,
+    "priority": "medium",
+    "deadline": "2025-05-10"
+  },
+  {
+    "id": 5,
+    "name": "Написание тестов",
+    "skills": ["testing"],
+    "hours": 20,
+    "priority": "low",
+    "deadline": "2025-06-25"
+  }
+]
